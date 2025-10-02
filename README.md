@@ -4,6 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wathawana-withanage-nuwan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.v.nuwan@gmail.com)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="wathawana-withanage-nuwan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/wathawana-withanage-nuwan?trk=profile-badge">Wathawana Withanage Nuwan</a></div>
+              
+
 ---
 
 ## 👨‍💻 About Me
