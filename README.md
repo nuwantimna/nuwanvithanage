@@ -60,15 +60,6 @@
 **Monitoring**: CloudWatch, Prometheus, Grafana, ELK Stack  
 **Collaboration**: Jira, Confluence  
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wathawanawithanage-nuwan&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wathawanawithanage-nuwan&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wathawanawithanage-nuwan&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
----
 
 ✨ *Thanks for visiting my profile! Feel free to connect with me on LinkedIn.*  
 
