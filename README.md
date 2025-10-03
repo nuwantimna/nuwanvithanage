@@ -61,7 +61,7 @@ Punctual and motivated engineer with broad experience in **Cloud, DevOps, and Sy
 
 ---
 
-## 🏅 Certifications (Selected)
+## 🏅 Certifications 
 
 ### The Linux Foundation
 
