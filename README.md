@@ -1,68 +1,124 @@
+About Me
 
-# Hi there 👋 I'm Wathawana Withanage Nuwan
+I am a punctual and motivated individual with strong expertise in DevOps, Cloud Engineering, and System Administration. With hands-on experience across AWS, Azure, GCP, Kubernetes, and automation frameworks, I specialize in building scalable cloud-native solutions, automating CI/CD pipelines, and ensuring high-availability infrastructures.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wathawana-withanage-nuwan/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.v.nuwan@gmail.com)
+📍 Based in Sri Lanka | ✉️ w.v.nuwan@gmail.com
+ | 📞 +94 76 600 1865
+🔗 LinkedIn
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="wathawana-withanage-nuwan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/wathawana-withanage-nuwan?trk=profile-badge">Wathawana Withanage Nuwan</a></div>
-                       
+💼 Work Experience
 
----
+SysOps Engineer – Autoavans (Jul 2024 – Present)
 
-## 👨‍💻 About Me
-- 🌍 Sri Lankan Cloud & DevOps Engineer  
-- 💼 Currently **SysOps Engineer @ Autoavans** and **DevOps Engineer @ DGtek Fiber Network**  
-- 🌱 Learning and exploring **AWS, Azure, Kubernetes, and Terraform**  
-- 🔭 Passionate about building **scalable, automated, and cost-optimized cloud solutions**  
-- ✨ Interested in **travel, eco-tourism, and cultural exploration**  
+Managed & optimized AWS & Azure cloud infrastructure.
 
----
+Designed CI/CD pipelines across DEV, QA, and PROD.
 
-## 💼 Work Experience (Highlights)
-- **SysOps Engineer** @ Autoavans (2024 – Present)  
-  - Managed AWS & Azure infrastructure, HA solutions, and cost optimization  
-  - Designed automated CI/CD pipelines across DEV/QA/PROD  
-  - Implemented monitoring with CloudWatch, ELK, Prometheus  
+Implemented cost-optimized cloud solutions leveraging Auto Scaling, Serverless, and Reserved Instances.
 
-- **DevOps Engineer** @ DGtek Fiber Network (2023 – Present)  
-  - Infrastructure automation on AWS/EKS with Terraform  
-  - CI/CD pipelines using GitLab + ArgoCD  
-  - Monitoring stack with CloudWatch, Prometheus & Grafana  
+Proactively monitored infrastructure using CloudWatch, Azure Monitor, Prometheus, ELK.
 
-- **Technical Support Specialist** @ HCLTech Sri Lanka (2022 – 2023)  
-  - Managed 2400+ Linux VMs & Solaris clusters  
-  - Patching, migrations, troubleshooting in enterprise environments  
+DevOps Engineer – DGtek Fiber Network (Jun 2023 – Present)
 
-- **DevOps Engineer** @ ClickDo & Ceylon Solutions  
-  - Automated WP hosting on Kubernetes AWS clusters  
-  - Designed zero-downtime deployments with Ansible  
-  - Managed Blue/Green deployments for US-based clients  
+Designed AWS/EKS infrastructure with Terraform.
 
----
+Implemented monitoring with CloudWatch, Prometheus & Grafana.
 
-## 🎓 Education & Certifications
-- **Bachelor of Networking** – Melbourne Institute of Technology (Reading)  
-- **AWS**: Solutions Architect Associate, Well-Architected, Cloud Practitioner, Technical Essentials  
-- **Google Cloud**: Core Infrastructure, Tech Support Fundamentals  
-- **Microsoft**: MCP, MCTS  
-- **Red Hat**: RHCSA, RHCE  
-- **Alibaba Cloud**: ACA Cloud Computing  
-- **Oracle**: Certified Foundation Associate  
-- **Neo4j**: 4.x Database Administration  
+Automated CI/CD with GitLab & ArgoCD.
 
----
+Technical Support Specialist – HCLTech (Sep 2022 – Jun 2023)
 
-## ⚡ Skills & Tools
-**Cloud Platforms**: AWS, Azure, GCP, Alibaba Cloud  
-**DevOps Tools**: Terraform, Ansible (AWX/Tower), GitHub Actions, Azure DevOps, GitLab CI, ArgoCD  
-**Containers & Orchestration**: Docker, Kubernetes (EKS)  
-**Programming & Scripting**: Python, Shell Scripting  
-**Monitoring**: CloudWatch, Prometheus, Grafana, ELK Stack  
-**Collaboration**: Jira, Confluence  
+Supported 2400+ Linux VMs across multiple data centers.
 
+Managed Solaris LDOMs, Veritas Cluster, Oracle RAC environments.
 
-✨ *Thanks for visiting my profile! Feel free to connect with me on LinkedIn.*  
+Daily patching & troubleshooting via Red Hat Satellite.
 
+DevOps Engineer – Click Do (Aug 2021 – Sep 2022)
 
+Automated WordPress hosting on AWS Kubernetes.
 
-              
+Built zero-downtime deployments using Ansible.
+
+Integrated SEO automation & monitoring systems.
+
+DevOps Engineer – Ceylon Solutions (Apr 2018 – Aug 2021)
+
+Maintained Blue/Green deployments for US clients.
+
+Lead DevOps Engineer for compliance and cannabis industry projects.
+
+Linux Network Engineer – Intrepid Travel (2015 – 2018)
+
+Maintained Linux systems, firewalls, and websites.
+
+(Earlier roles: Ridgecrest Group – System & Network Engineer)
+
+🎓 Education
+
+Bachelor of Networking – Melbourne Institute of Technology (2023 – 2026, Reading)
+
+🏅 Certifications
+The Linux Foundation
+
+LFEL1014: Scaling Cloud Native Applications with KEDA (Oct 2025)
+
+LFEL1009: Getting Started with OpenTofu (Sep 2025, ID: LF-zx3o4bkvo5)
+
+LFS162: Introduction to DevOps & SRE (Sep 2025, ID: LF-5ounutvq2l)
+
+LFEL1004: Authentication & Authorization for Web/API (Sep 2025)
+
+Cloud & DevOps
+
+Multicloud Network Associate – Aviatrix (Sep 2025 – Sep 2028)
+
+Postman API Fundamentals Student Expert – Canvas Credentials (Aug 2024)
+
+AWS Knowledge: Architecting (May 2024)
+
+AWS Cloud Practitioner Essentials (2020, renewed)
+
+AWS Technical Essentials (2022 – 2025)
+
+Google Cloud Fundamentals: Core Infrastructure (Apr 2024)
+
+Docker Training – KodeKloud (Apr 2024)
+
+Ansible Engineer – KodeKloud (May 2024)
+
+Neo4j 4.x Administration (2021 – 2024)
+
+Oracle Certified Associate (2021 – 2023)
+
+ACA Cloud Computing Certification – Alibaba Cloud (2020 – 2023)
+
+Legacy Certifications
+
+Red Hat Certified Engineer (RHCE) (2014 – 2017)
+
+Red Hat Certified System Administrator (RHCSA) (2014 – 2017)
+
+Microsoft Certified Professional (MCP) (2016 – 2020)
+
+MCTS: Windows Server 2008 / Vista (2009 – 2013)
+
+🛠️ Skills
+
+Cloud Platforms: AWS, Azure, GCP, Alibaba Cloud, Oracle Cloud
+
+Infrastructure as Code: Terraform, Packer
+
+CI/CD: GitLab, ArgoCD, Azure DevOps, GitHub Actions
+
+Configuration Management: Ansible (AWX/Tower)
+
+Containerization & Orchestration: Docker, Kubernetes (EKS, GKE, AKS)
+
+Monitoring & Logging: Prometheus, Grafana, ELK, CloudWatch, Azure Monitor
+
+Languages: Python, Shell Scripting
+
+Collaboration: Jira, Confluence
+
+Other: ITIL, Neo4j, Linux System Administration
