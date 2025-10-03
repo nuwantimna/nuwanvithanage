@@ -9,6 +9,9 @@
 
 ## 👤 About Me
 
+
+![LinkedIn Profile](assets/Screenshot-2025-10-03-071304.jpg
+
 Punctual and motivated engineer with broad experience in **Cloud, DevOps, and Systems Administration**. Skilled at designing scalable cloud-native infrastructure, automating CI/CD pipelines, and maintaining high-availability systems across AWS, Azure, and GCP. Strong communicator and team leader with a proven track record delivering cost-optimized and reliable production systems.
 
 ---
